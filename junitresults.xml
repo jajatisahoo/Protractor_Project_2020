@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="Login functionality" timestamp="2020-02-07T00:26:01" hostname="localhost" time="7.424" errors="0" tests="1" skipped="0" failures="0">
+  <testcase classname="Login functionality" name="login to orange CRM" time="7.422">
+  </testcase>
+ </testsuite>
+</testsuites>

@@ -1,0 +1,19 @@
+{
+
+    "TestUrl": "http://www.way2automation.com/angularjs-protractor/banking/#/login",
+
+    "Locators": {
+        "BankManagerLoginButton": "Bank Manager Login",
+        "AddCustomerButon": "Add Customer",
+        "CustomerFirstName": "fName",
+        "CustomerLastName": "lName",
+        "Pincode": "postCd",
+        "AddCustomerButonDown": "btn btn-default",
+        "OpenAccountButton": "Open Account",
+        "Selectoption": "//option[@value=6]",
+        "SelectCustomer": "custId",
+        "Selectcurrency": "currency",
+        "ProcessButton": "Process"
+    }
+
+}
