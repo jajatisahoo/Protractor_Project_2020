@@ -28,7 +28,7 @@
         "Protractor",
         "Typescript"
     ],
-    "author": "Jajati k Sahoo",
+    "author": "Jajati keshari Sahoo",
     "license": "ISC",
     "devDependencies": {
         "jasmine-reporters": "^2.0.0"
