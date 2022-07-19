@@ -10,7 +10,7 @@
         "jasmine-allure-reporter": "^1.0.2",
         "jasmine-spec-reporter": "^4.2.1",
         "maven": "^4.7.0",
-        "properties-reader": "^1.0.0",
+        "properties-reader": "^2.2.0",
         "protractor": "^5.4.3",
         "protractor-html-reporter-2": "^1.0.4",
         "ts-node": "^8.2.0",
